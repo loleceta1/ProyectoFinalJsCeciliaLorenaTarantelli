@@ -1,0 +1,29 @@
+
+{
+    "productos" : [{
+        "id": 1,
+        "titulo":"Masajes Relajación",
+        "precio": 999,
+        "imagen": "./imagenesTARA/massage-therapy-1612308_1920.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Reiki",
+        "precio": 800,
+        "imagen": "./imagenesTARA/hands-1327811_1920.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "Tratamiento Facial",
+        "precio": 1500,
+        "imagen": "./imagenesTARA/woman-3141766_1920.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Tratamiento Corporal",
+        "imagen": "./imagenesTARA/woman-567021_1920.jpg"
+    
+    }
+   
+    ]
+}
