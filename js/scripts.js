@@ -1,9 +1,9 @@
 let productos = [];
-fetch("../data.json")
+fetch('data.json')
     .then((response) => response.json())
     .then((data) => {
         generarCards(data.productos)
-        productos = data.productos
+       // productos = data.productos
     })
 
 
